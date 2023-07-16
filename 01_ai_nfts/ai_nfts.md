@@ -4,13 +4,17 @@
 
 
 #### AI Fashion, Digital Ownership, KNXT
-AI fashion is upheaving the traditional fashion industry. Recently the very first [AI [fashion week](https://fashionweek.ai/) occurred and in it, the AI-generated fashion, design and quality we amazing to say the least. Showing both its efficacy in the space as well as its potential as a serious use case. Knowing this large fashion and design conglomerates have decided to adopt this revolution before it sweeps them away. Some of the winners will even have their AI designs produced and sold by Revolve as real-world goods. Kering the company behind Gucci, Balenciaga, Yves Saint Laurent and more has also stepped into this field although a little more quietly and under the radar. This is definitely some good alpha, but since you're reading The Basement I'm always happy to share. Kering has silently launched the brand KNXT. Which combines AI, Crypto and NFTs all in one company. They use an AI chatbot to recommend products, Crypto payments on their website for transactions, and get this, they even have their own NFT for the first 100 orders made on their site. This seems way ahead of what others have done and almost not legit. But I've found some proof of this through trademark documents where Kering is stated as the Owner. 
+AI fashion is upheaving the traditional fashion industry. Recently the very first AI [fashion week](https://fashionweek.ai/) occurred and in it, the AI-generated fashion, design and quality we amazing to say the least. Showing both its efficacy in the space as well as its potential as a serious use case. Knowing this large fashion and design conglomerates have decided to adopt this revolution before it sweeps them away. Some of the winners will even have their AI designs produced and sold by Revolve as real-world goods. Kering the company behind Gucci, Balenciaga, Yves Saint Laurent and more has also stepped into this field although a little more quietly and under the radar. This is definitely some good alpha, but since you're reading The Basement I'm always happy to share. Kering has silently launched the brand KNXT. Which combines AI, Crypto and NFTs all in one company. They use an AI chatbot to recommend products, Crypto payments on their website for transactions, and get this, they even have their own NFT for the first 100 orders made on their site. This seems way ahead of what others have done and almost not legit. But I've found some proof of this through trademark documents where Kering is stated as the Owner. 
+
+![AI FASHION WEEK](p1.png)
 
 #### AI Scams, NFT Verification
 
 
 #### NFT MARKETPLACES, AI TRADING AND ANALYSIS
 AI art has often been a use case for NFTs and has a long history of being sold on NFT platforms. [There are even specific AI NFT DAOs for creating, minting and auctioning AI NFT art](https://www.botto.com/). However, now AI has a new role to play in the NFT marketplace. One of expanding its capabilities. With it, we can improve the recoverability of NFTs by suggesting NFTs based on previous purchase history, and wallet activity. We can use AI to detect fake replica NFT artworks that have been copied and re-minted as similar yet fake names and alert NFT consumers to potential fraud. We can use AI to score NFTs on their originality, as in what percentage of this NFT was human or AI-made. Essentially AI to combat AI. We can even have more real-time data analysis. However, best of all we can have even more AI NFT art!
+
+![AI ART](p2.jpg)
 
 #### AI NFT MEME MACHINE
 
@@ -28,3 +32,6 @@ I refer to a zombie internet and a dead internet as two distinct yet similar in 
 You can no longer distinguish the difference between an AI and a human online. And soon enough you won't be able to tell the difference in person either. So we need a system to prove that a person is an actual person now. Introducing Worldcon which "is a digital passport that lets a user prove they are a unique and real person while remaining anonymous, using zero-knowledge proofs. It's built on Ethereum and it aims to then distribute a token "[just for being a unique individual](https://www.context.news/big-tech/what-is-worldcoin-and-what-does-it-mean-for-our-privacy)". 
 
 #### CONCLUSION
+
+
+
