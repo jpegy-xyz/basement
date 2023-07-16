@@ -8,16 +8,10 @@ AI fashion is upheaving the traditional fashion industry. Recently the very firs
 
 ![AI FASHION WEEK](p1.png)
 
-#### AI Scams, NFT Verification
-
-
 #### NFT MARKETPLACES, AI TRADING AND ANALYSIS
 AI art has often been a use case for NFTs and has a long history of being sold on NFT platforms. [There are even specific AI NFT DAOs for creating, minting and auctioning AI NFT art](https://www.botto.com/). However, now AI has a new role to play in the NFT marketplace. One of expanding its capabilities. With it, we can improve the recoverability of NFTs by suggesting NFTs based on previous purchase history, and wallet activity. We can use AI to detect fake replica NFT artworks that have been copied and re-minted as similar yet fake names and alert NFT consumers to potential fraud. We can use AI to score NFTs on their originality, as in what percentage of this NFT was human or AI-made. Essentially AI to combat AI. We can even have more real-time data analysis. However, best of all we can have even more AI NFT art!
 
 ![AI ART](p2.jpg)
-
-#### AI NFT MEME MACHINE
-
 
 #### BRINGING LIFE TO NFTS
 Your NFTs are static, unintelligent and uninteractable. Luckily for you, they don't have to be for long. Within the intersection of AI x NFTs, the capability exists to breathe life into your NFTs. [Alethea AI](https://twitter.com/real_alethea/status/1678760436194492417) has an application that transforms your NFT into an iNFT embedding it with an AI personality. This is the first step of how AI is transforming the current ways in which we interact with NFTs and as these solutions become more integrated and polished we'll start to see a level of interaction with digital assets we never thought possible before.
@@ -31,7 +25,7 @@ I refer to a zombie internet and a dead internet as two distinct yet similar in 
 #### PROOF OF PERSONHOOD
 You can no longer distinguish the difference between an AI and a human online. And soon enough you won't be able to tell the difference in person either. So we need a system to prove that a person is an actual person now. Introducing Worldcon which "is a digital passport that lets a user prove they are a unique and real person while remaining anonymous, using zero-knowledge proofs. It's built on Ethereum and it aims to then distribute a token "[just for being a unique individual](https://www.context.news/big-tech/what-is-worldcoin-and-what-does-it-mean-for-our-privacy)". 
 
-#### CONCLUSION
-
+#### THE OUTLOOK
+I believe AI and blockchain are here to stay, and that the intersection between them will be many times more lucrative than their individual parts. That committing yourself to understanding and making something in this area could have untold positive effects for yourself and potentially other people.
 
 
