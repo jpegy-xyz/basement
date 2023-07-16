@@ -1,5 +1,8 @@
 AI and the blockchain
 
+--- General ---
+https://www.youtube.com/watch?v=e8TSHyAbacs
+
 --- Introduction ---
 
 
@@ -40,9 +43,14 @@ https://www.reddit.com/r/replika/comments/lxfh0m/sex_with_replika/
 
 --- PROOF OF PERSONHOOD ---
 https://www.forbes.com/sites/gilpress/2023/06/01/is-it-an-ai-chatbot-or-a-human-32-cant-tell/?sh=4988fe9fe94a
+https://docs.worldcoin.org/ 
+https://worldcoin.org/
+https://www.context.news/big-tech/what-is-worldcoin-and-what-does-it-mean-for-our-privacy
+
+
 
 
 --- AI BLOCKCHAIN GOVERNANCE --- 
-
+https://www.techopedia.com/ai-governance-infused-in-blockchain-is-the-key-to-ethical-ai-systems
 
 --- CONCLUSION --- 
