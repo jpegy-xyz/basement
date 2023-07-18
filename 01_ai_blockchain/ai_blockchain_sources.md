@@ -46,6 +46,7 @@ https://www.forbes.com/sites/gilpress/2023/06/01/is-it-an-ai-chatbot-or-a-human-
 https://docs.worldcoin.org/ 
 https://worldcoin.org/
 https://www.context.news/big-tech/what-is-worldcoin-and-what-does-it-mean-for-our-privacy
+https://www.coindesk.com/policy/2023/05/24/black-market-for-worldcoin-credentials-pops-up-in-china/
 
 
 
