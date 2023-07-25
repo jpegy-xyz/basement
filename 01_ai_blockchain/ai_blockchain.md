@@ -1,7 +1,9 @@
-## AI and the blockchain
+## The Yin and Yang of Blockchain and AI
 
 #### Introduction 
-AI has already taken over. With the addition of blockchain technologies AI becomes even more potent and opportunities arise everywhere. The intersection of the two technologies allows more complex problems to be solved as well as solving limiting factors that each technology inherently has. Their applications range from fashion to marketplaces, to ai companions, to even destroying the internet as we know it and blurring the lines between person and ai. A lot is a lot happening in this space and I'm going to walk you through it all. 
+AI is the yin to Blockchain's yang. AI is probabilistic, Blockchain is the opposite. Blockchain is Permanent, AI is always adapting. AI uses algorithms to guess reality, Blockchain uses algorithms to record reality. These two technologies are married to each other, and their kids (the products that are created from both of them) are amazing.
+
+AI has already taken over. Blockchain is becoming integrated into more systems. And the intersection of the two technologies allows more complex problems to be solved as well as solving limiting factors that each technology inherently has. Their applications range from fashion to marketplaces, to ai companions, to even destroying the internet as we know it and blurring the lines between person and ai. A lot is a lot happening in this space and I'm going to walk you through it all. 
 
 #### AI Fashion, Digital Ownership, KNXT
 AI fashion is upheaving the traditional fashion industry with no stopping it in sight. Recently the very first AI [fashion week](https://fashionweek.ai/) took place and in it, the AI-generated fashion, design and quality were amazing, to say the least. Showing both its efficacy in the space as well as its potential as a serious use case for practical AI use. Knowing the potential, large fashion and design conglomerates have decided to adopt this revolution in design before it sweeps them away. Some of the winners of the show will even have their AI designs produced and sold by Revolve, a clothing designer as real-world goods. 
@@ -48,7 +50,7 @@ You can no longer distinguish the difference between an AI and a human online. A
 
 It's built on Ethereum and it aims to then distribute a token "[just for being a unique individual](https://www.context.news/big-tech/what-is-worldcoin-and-what-does-it-mean-for-our-privacy)" to the world. And in essence, create a universal basic income. This system could work in theory, but if something like this becomes government mandated we could see a level of surveillance and control the world has never seen previously. Hell, how could we even trust the people behind it in the first place, and why would we?
 
-They aim to distribute the token freely to those who have been scanned by their eye-scanning device, but 20% has already been allocated to investors and stakeholders. They're scanning your biometrics along with collecting a lot of other personal data, introducing so many privacy and security risks. Also, I'm sure you've heard of a black market for your kidneys. Well, let me introduce one for [your eyes](https://www.coindesk.com/policy/2023/05/24/black-market-for-worldcoin-credentials-pops-up-in-china/). We need a solution for this problem urgently, but is this the one we should all rely on?
+They aim to distribute the token freely to those who have been scanned by their eye-scanning device, but 20% has already been allocated to investors and stakeholders. They're scanning your biometrics along with collecting a lot of other personal data, introducing so many privacy and security risks. Also, I'm sure you've heard of a black market for your kidneys. Well, let me introduce one for [your eyes](https://www.coindesk.com/policy/2023/05/24/black-market-for-worldcoin-credentials-pops-up-in-china/). We need a solution to this problem urgently, but is this the one we should all rely on?
 
 ![BLACK MARKET FOR YOUR EYES](p5.png)
 
