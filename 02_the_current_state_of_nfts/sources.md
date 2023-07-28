@@ -1,0 +1,3 @@
+https://coinunited.io/learn/exploring-the-nft-landscape-bear-market-or-demise-of-digital-collectibles
+https://firststagelabs.medium.com/ton-nft-landscape-f60d4b60bcde
+https://www.bsc.news/post/are-nfts-dead-or-just-taking-a-breather-analyzing-the-current-state-of-the-nft-market#:~:text=NFTs%3A%20Not%20Dead%2C%20but%20Evolving&text=The%20recent%20spike%20in%20trading,its%20future%20trajectory%20remains%20uncertain.

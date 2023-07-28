@@ -1,7 +1,7 @@
 ## The Yin and Yang of Blockchain and AI
 
 #### Introduction 
-AI is the yin to Blockchain's yang. AI is probabilistic, Blockchain is the opposite. Blockchain is Permanent, AI is always adapting. AI uses algorithms to guess reality, Blockchain uses algorithms to record reality. These two technologies are married to each other, and their kids (the products that are created from both of them) are amazing.
+AI is the yin to Blockchain's yang. AI is probabilistic, Blockchain is the opposite. Blockchain is Permanent, AI is always adapting. AI uses algorithms to guess reality, Blockchain uses algorithms to record reality. These two technologies are akin to two soulmates meant for each other, and their kids (the products that are created from both of them) are amazing.
 
 AI has already taken over. Blockchain is becoming integrated into more systems. And the intersection of the two technologies allows more complex problems to be solved as well as solving limiting factors that each technology inherently has. Their applications range from fashion to marketplaces, to ai companions, to even destroying the internet as we know it and blurring the lines between person and ai. A lot is a lot happening in this space and I'm going to walk you through it all. 
 
