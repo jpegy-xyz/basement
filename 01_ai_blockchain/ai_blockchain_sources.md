@@ -17,6 +17,7 @@ https://www.knxt-madeline.com/chat
 https://twitter.com/KNXT____
 https://trademarks.justia.com/793/32/knxt-79332972.html
 https://opensea.io/collection/la-premiere
+https://www.knxt-boutique.com/
 
 
 --- AI Scams, NFT Verification ---

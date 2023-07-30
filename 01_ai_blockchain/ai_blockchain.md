@@ -10,16 +10,18 @@ AI fashion is upheaving the traditional fashion industry with no stopping it in 
 
 ![AI FASHION WEEK 1](p1.png)
 
-Kering the company behind Gucci, Balenciaga, Yves Saint Laurent and more has also stepped into this field although a little more quietly and very under the radar. This is probably some good alpha, but since you're reading The Basement I'm always happy to share. Kering has silently launched the brand [KNXT](https://www.knxt-boutique.com/). Which combines AI, Crypto and NFTs all in one company. They use an [AI chatbot to recommend products](https://www.knxt-madeline.com/chat), Crypto payments on their website for transactions, and get this, they even have their own NFT for the first 100 orders made on their site. As always do your own research.
+Kering the company behind Gucci, Balenciaga, Yves Saint Laurent and more has also stepped into this field although a little more quietly and very under the radar. Previously Kering has launched NFT-related collections under Gucci. Now, Kering has silently launched the brand [KNXT](https://www.knxt-boutique.com/). Which combines AI, Crypto and NFTs all in one company. They use an [AI chatbot to recommend products](https://www.knxt-madeline.com/chat), Crypto payments on their website for transactions, and get this, they even have their own NFT for the first 100 orders made on their site. As always do your own research.
 
-This seems way ahead of what others have done and almost too good to be real. But I've found some proof of the authenticity through [trademark documents](https://trademarks.justia.com/793/32/knxt-79332972.html) where Kering is stated as the owner of the trademark.
+This seems way ahead of what others have done and almost too good to be real. But I've found some proof of the authenticity through [trademark documents](https://trademarks.justia.com/793/32/knxt-79332972.html) where Kering is stated as the owner of the KNXT trademark. Further hints can be found in the KNXT [privacy policy](https://www.knxt-boutique.com/privacy) and [terms](https://www.knxt-boutique.com/terms) both mentioning Kering numerous times. However, without a direct mention from an official Kering communication channel, this all remains speculative.
 
 ![AI FASHION WEE 2](p4.png)
 
-#### NFT MARKETPLACES, AI TRADING AND ANALYSIS
+#### NFT MARKETPLACES, TRADING AND ANALYSIS
 AI art has often been a use case for NFTs and has a long history of being sold on NFT platforms. [There are even specific AI NFT DAOs for creating, minting and auctioning AI NFT art](https://www.botto.com/). 
 
-However, now AI has a new role to play in NFT marketplaces. One of expanding its capabilities. With it, we can improve the discoverability of NFTs by suggesting NFTs based on previous purchase history, and wallet activity. We can use AI to detect fake replica NFT artworks that have been copied and re-minted under similar yet fake names and alert NFT consumers to potential fraud prior to a purchase being made. AI can score NFTs on their originality, as in what percentage of this NFT was human vs AI-made. Essentially AI to combat AI. We can even have more real-time data analysis of the trends currently happening, and by that measure be better prepared to adapt and respond to market conditions. However, best of all, going back to where it all started, we will have even more AI NFT art!
+However, now AI has a new role to play in NFT marketplaces. One of expanding its capabilities. With it, we can improve the discoverability of NFTs by suggesting NFTs based on previous purchase history, and wallet activity. We can use AI to detect fake replica NFT artworks that have been copied and re-minted under similar yet fake names and alert NFT consumers to potential fraud prior to a purchase being made. AI can score NFTs on their originality, as in what percentage of this NFT was human vs AI-made. Essentially AI to combat AI. We can even have more real-time data analytics of the trends currently happening in the market, and by those means be better prepared to adapt and respond to market conditions. 
+
+However, best of all, going back to where it all started, we will have even more AI NFT art! This sounds amazing to me, but is also obviously a double-edged sword, with a rise in the number of AI-generated content we begin to crowd out human generated content. Perhaps even diluting the impact of traditional artists who are hoping to establish themselves in the space. Many people look down on AI art as a result. Similarly, when photographic art first came into popularity there were those who called it, too quick and easy to be considered "real art" and looked down upon those who practiced it. Now it's a respectable art form in its own right. Perhaps AI art will be the same.
 
 ![AI ART](p2.jpg)
 
@@ -38,19 +40,26 @@ However, this is happening now, all of it, and to more people than anyone knows 
 
 In both examples, we see how a centralized figure cannot hold governance over these AI personalities. How powerful these companion apps are at implanting themselves as core relationships to those who use them. Especially with those who are socially anxious, depressed, or lonely. An application like this has a lot of appeal and a lot of benefits too. However if some company or individual can strip that core relationship from you in an instance, as we've just seen. This could have detrimental mental effects on its users, who may already be very vulnerable. However if each AI "companion" was an NFT these characteristics would be unchangeable and align much better with consumer wants. Allowing those conversations to continue for however long they needed to, for better or worse.
 
-#### NFTS AGAINST A ZOMBIE INTERNET AND A DEAD INTERNET
-This next part is alarming. I refer to a zombie internet and a dead internet as two distinct yet similar in nature phenomena. A dead internet is one where most of the online content we see is created by AI. A zombie internet is more complicated but a lot more disturbing, and it brings us back to Replika and why the application was made in the first place. 
+#### BLOCKCHAIN AGAINST A ZOMBIE INTERNET AND A DEAD INTERNET
+A dead internet is one where most of the online content we see is created by AI. A zombie internet is more complicated but a lot more disturbing, and it brings us back to Replika and why the application was made in the first place. 
 
-The founder of Replika had a close friend who passed away, unable to cope with the loss she fed her algorithm a decade of their messaged and tuned it in a way so that when prompted she would get messages akin to those her friend sent. And by that means continue the conversation she could no longer have. She turned the memory of her dead friend into an AI, which eventually evolved into a consumer chatbot, for chatting and for other things.
+The founder of Replika had a close friend who passed away, unable to cope with the loss she created an algorithm and fed it a decade of their messaged and tuned it in a way so that when prompted she would get messages akin to those her friend sent. And by that means continue the conversation she could no longer have. She turned the memory of her dead friend into an AI, which eventually evolved into a consumer chatbot, for chatting and for other things.
 
 A zombie internet is one where I predict that social media companies offer this as a grieving service to loved ones. Turn them into AI. Where they take control of a deceased person's account and an AI begins impersonating them. By reading and utilizing that person's private messages, posts, interactions, photos, friends etc... A convincing "zombie" account would be created, that could respond to you similarly to before, they could even create aged photos and posts where the personality develops into the future. A whole AI identity, and that person at least in the digital sense, would live on.
 
+![DEAD INTERNET](p7.jpg)
+
+A dead internet is one where the internet consists mostly of bot and ai generated content. And is then manipulated by algorithmic curation, further marginalizing organic human activity and content. In that regard, we would be manipulated into believing the messages in content generated this way and, in effect, change public perceptions. This becomes a real problem as we can no longer distinguish the difference between AI and human-generated content, with current AI models passing the Turing test.
+
+However blockchain presents a potential solution to these problems through a proof of personhood.
+
+
 #### PROOF OF PERSONHOOD
-You can no longer distinguish the difference between an AI and a human online. And eventually, you won't be able to tell the difference in person either. So we need a system to prove that a person is an actual person now. Introducing Worldcoin which "is a digital passport that lets a user prove they are a unique and real person while remaining anonymous, using zero-knowledge proofs. 
+As discussed you can no longer distinguish the difference between an AI and a human online. And eventually, you won't be able to tell the difference in person either. So we need a system to prove that a person is an actual person now. Introducing Worldcoin which "is a digital passport that lets a user prove they are a unique and real person while remaining anonymous, using zero-knowledge proofs. 
 
 It's built on Ethereum and it aims to then distribute a token "[just for being a unique individual](https://www.context.news/big-tech/what-is-worldcoin-and-what-does-it-mean-for-our-privacy)" to the world. And in essence, create a universal basic income. This system could work in theory, but if something like this becomes government mandated we could see a level of surveillance and control the world has never seen previously. Hell, how could we even trust the people behind it in the first place, and why would we?
 
-They aim to distribute the token freely to those who have been scanned by their eye-scanning device, but 20% has already been allocated to investors and stakeholders. They're scanning your biometrics along with collecting a lot of other personal data, introducing so many privacy and security risks. Also, I'm sure you've heard of a black market for your kidneys. Well, let me introduce one for [your eyes](https://www.coindesk.com/policy/2023/05/24/black-market-for-worldcoin-credentials-pops-up-in-china/). We need a solution to this problem urgently, but is this the one we should all rely on?
+They aim to distribute the token freely to those who have been scanned by their eye-scanning device, but 20% of tokens have already been allocated to investors and stakeholders. They're scanning your biometrics along with collecting a lot of other personal data, introducing so many privacy and security risks. Also, I'm sure you've heard of a black market for your kidneys. Well, let me introduce one for [your eyes](https://www.coindesk.com/policy/2023/05/24/black-market-for-worldcoin-credentials-pops-up-in-china/). We need a solution to this problem urgently, but is this the one we should all rely on?
 
 ![BLACK MARKET FOR YOUR EYES](p5.png)
 
@@ -59,4 +68,6 @@ I believe AI and blockchain are here to stay, and that the intersection between 
 
 However, there are also concerns I have in this space, especially with AI embodying more aspects of everyday life, with governance and how governments around the world will react to this and what legislation they pass. And especially how people interact with it, for bad or for good. It will be an interesting future.
 
+#### JOIN US
 
+We're making the Basement open, if you want to contribute join us at https://github.com/jpegy-xyz/basement
