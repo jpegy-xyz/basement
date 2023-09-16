@@ -5,7 +5,7 @@ Your network is your net worth. Theory will only get you so far, so Friendtech i
 
 Friendtech is a new social token platform that connects your twitter profile with a wallet on Base chain. Users can then buy tokens of yourself that lets them connect directly with you in the app.
 
-To download friend.tech head to [their website](https://www.friend.tech/) on your phone and follow the prompts. Currently, the the app isn't available on the Apple or Play stores. You'll also need an invite code which can be found on [~~Twitter~~ (X)](https://twitter.com/search?q=friendtech%20code&src=typed_query&f=live). After which you will need to deposit some eth, which will be used to buy tokens of other people.
+To download friend.tech head to [their website](https://www.friend.tech/) on your phone and follow the prompts. Currently, the app isn't available on the Apple or Play stores. You'll also need an invite code which can be found on [~~Twitter~~ (X)](https://twitter.com/search?q=friendtech%20code&src=typed_query&f=live). After which you will need to deposit some eth, which will be used to buy tokens of other people.
 
 ![Friend.tech codes](p1.png)
 
@@ -19,7 +19,7 @@ Interestingly, friend tech is similar to platforms such as Roll and Rally, Rally
 
 Social token platforms challenges
 1. Difficulty in growth: One of the biggest obstacles facing social token platforms is their difficulty in scaling. Unlike traditional social media platforms that have millions to billions of users, social token platforms attract much smaller, niche communities. If the platform does not reach the critical mass necessary for sustainability. It will fail
-2. Higher barrier of entry: Another hurdle that these platforms face is the relatively high barrier of entry. Facebook, instagram, tiktok, ~~twitter,~~ X are all free to access and use. Social token platforms howvere require a user to invest in tokens to participate fully. This financial requirment can majorly deter potential new users and limit and often cripple growth.
+2. Higher barrier of entry: Another hurdle that these platforms face is the relatively high barrier of entry. Facebook, instagram, tiktok, ~~twitter,~~ X are all free to access and use. Social token platforms however require a user to invest in tokens to participate fully. This financial requirement can majorly deter potential new users and limit and often cripple growth.
 3. Ponzi-like tendencies:
 
 Social token platforms potential
@@ -27,34 +27,38 @@ Social token platforms potential
 
 ### Legitimacy
 
+friend.tech is backed by [paradigm](https://pitchbook.com/profiles/company/534396-16#funding) a massive investment firm that has invested in the likes of opensea, blur, coinbase and many more. 
 
+Lots of larger influencers are already taking full advantage of the ecosystem
+
+Widespread adoption in the market 
+![market](p6.png)
 
 ### Market Opportunites
 
 There are market opportunities in friend.tech
 
 1. friend.tech app speculation
-   1. You can speculate on the growth of the application by buying tokens from high-value influencers that can be used as a proxy metric for the overall app performace
-Influencers could include, Racer, Cobie, Haska etc..
+   - You can speculate on the growth of the application by buying tokens from high-value influencers that can be used as a proxy metric for the overall app performance Influencers could include, Racer, Cobie, Haska etc..
 2. User speculation
-   1. As this mar
+   - As this mar
 3. New user sniping
 4. Networking tool
-   1. friend.tech allows you to connect with some of the most prominent people in the space fairly easily
-   2. use it to leverage your brand
-   3. gain useful insights from these closed group chats
+   - friend.tech allows you to connect with some of the most prominent people in the space fairly easily
+   - use it to leverage your brand
+   - gain useful insights from these closed group chats
 5. Airdrop farming
-   1. Max out points, more about this later
+   - Max out points, more about this later
 6. Farming as a chat influencer
-   1. Bringing value into the chat incentivises people to buy your tokens
-   2. you are rewarded a percentage of transactions of your tokens
+   - Bringing value into the chat incentivises people to buy your tokens
+   - you are rewarded a percentage of transactions of your tokens
 
 ### Airdrop
 
 Friend.tech will have an airdrop and it is expected to be quite a substantial one. Airdrop points are distributed weekly, however, gaming points prove difficult as they change the criteria of how to get points weekly.
 
 However, we can speculate on probable ways points are generated each week
-- interacting with the app, messaging, buying selling tokens
+- interacting with the app, messaging, buying and selling tokens
   - if low on eth you can buy cheap tokens < 0.001
   - to find cheap tokens, search for 
 
@@ -62,8 +66,6 @@ However, we can speculate on probable ways points are generated each week
 
 In short 
 ![points speculation](p2.png)
-
-
 
 ### Issues
 
@@ -80,4 +82,4 @@ Let's list some of the issues
 8. Only a certain number of people can hold influencer tokens before it becomes prohibitively expensive
 9. These types of platforms have been tried before and failed, which doesn't necessarily mean this will too, but the history is there, be cautious
 
-So clearly some issues, but nothing worthwhile is ever without them. However lots of the issues listed can be fixed to make the platform better, especially in regards to knowing if the chat is being actively maintained by the influencer
+So clearly some issues, but nothing worthwhile is ever without them. However, lots of the issues listed can be fixed to make the platform better, especially in regards to knowing if the chat is being actively maintained by the influencer
