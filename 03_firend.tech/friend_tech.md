@@ -7,7 +7,7 @@ Friendtech is a new social token platform that connects your twitter profile wit
 
 To download friend.tech head to [their website](https://www.friend.tech/) on your phone and follow the prompts. Currently, the app isn't available on the Apple or Play stores. You'll also need an invite code which can be found on [~~Twitter~~ (X)](https://twitter.com/search?q=friendtech%20code&src=typed_query&f=live). After which you will need to deposit some eth, which will be used to buy tokens of other people.
 
-![Friend.tech codes](p1.png)
+<!-- ![Friend.tech codes](p1.png) -->
 
 ### Social tokens
 
@@ -17,22 +17,30 @@ Interestingly, friend tech is similar to platforms such as Roll and Rally, Rally
 
 ![Rally](p4.png)
 
-Social token platforms challenges
+Social token platform challenges
 1. Difficulty in growth: One of the biggest obstacles facing social token platforms is their difficulty in scaling. Unlike traditional social media platforms that have millions to billions of users, social token platforms attract much smaller, niche communities. If the platform does not reach the critical mass necessary for sustainability. It will fail
 2. Higher barrier of entry: Another hurdle that these platforms face is the relatively high barrier of entry. Facebook, Instagram, TikTok, ~~twitter,~~ X are all free to access and use. Social token platforms however require a user to invest in tokens to participate fully. This financial requirement can majorly deter potential new users and limit and often cripple growth.
 3. Ponzi-like tendencies:
 
-Social token platforms potential
-1. Community building
+Social token platform potential
+1. A more intimate community-building opportunity for influencers, to connect and interact with their most loyal fans. Creating tangible benefits for their audience, and similarly allowing fans to get close interaction with their preferred influencers.
+2. Leveraging the community to be part of governance mechanisms and generally encouraging user participation through airdrops and the like, could boost the popularity of the platform, and see a newer type of social media where the user has a lot more control and influence
 
 ### Legitimacy
 
-friend.tech is backed by [Paradigm](https://pitchbook.com/profiles/company/534396-16#funding) a massive investment firm that has invested in the likes of opensea, blur, coinbase and many more. 
+friend.tech is backed by [Paradigm](https://pitchbook.com/profiles/company/534396-16#funding) a massive investment firm that's invested in the likes of opensea, blur, coinbase and many more. So it has investment credibility. And it has garnered user credibility quite quickly too, with a widespread adoption with the crypto community. It has not broached much further with the exception of the OnlyFans models.
+
+![market 2](p7.png)
+
+Lots of larger influencers are already taking full advantage of the ecosystem and leveraging their existing userbase on the platform. And by interacting regurarly with them and luring other users to buy their keys they are able to generate some revenue for themselves through the 5% fee that they recieve from each transaction
 
 Lots of larger influencers are already taking full advantage of the ecosystem
 
 Widespread adoption in the market, however 
-![market](p6.png)
+![market 1](p6.png)
+
+
+
 
 ### Market Opportunites
 
@@ -54,6 +62,14 @@ There are some market opportunities in friend.tech, however not without risk. Mo
    - Bringing value into the chat incentivises people to buy your tokens
    - you are rewarded a percentage of transactions of your tokens
 
+friend.tech has been lucrative for some of the best traders, however the competition is fierce and dominated by bots. However these traders should still see some more upside from the upcoming airdrop
+
+![traders](p8.png)
+
+Influencers themselves seem to be generating a large amount of money for themselves too, with a lot less risk than the traders had put up.
+
+![influncers](p9.png)
+
 ### Airdrop
 
 Like fly's to honey, wherever there is an airdrop there are sure to be crypto degens too. It's a large part of the attraction of friend.tech, airdrop farmers trying to grow their crops for harvest.
@@ -69,6 +85,7 @@ These could include
 - App activity
   - this could also be a slight multiplier for other point metrics
 - Using invite codes
+  - if you don't have anyone to share them with, post them on twitter with a burner account
 - Holding keys
   - weighted by key values
 
