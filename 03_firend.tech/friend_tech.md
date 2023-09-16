@@ -17,6 +17,14 @@ Interestingly, friend tech is similar to platforms such as Roll and Rally, Rally
 
 ![Rally](p4.png)
 
+Social token platforms challenges
+1. Difficulty in growth: One of the biggest obstacles facing social token platforms is their difficulty in scaling. Unlike traditional social media platforms that have millions to billions of users, social token platforms attract much smaller, niche communities. If the platform does not reach the critical mass necessary for sustainability. It will fail
+2. Higher barrier of entry: Another hurdle that these platforms face is the relatively high barrier of entry. Facebook, instagram, tiktok, ~~twitter,~~ X are all free to access and use. Social token platforms howvere require a user to invest in tokens to participate fully. This financial requirment can majorly deter potential new users and limit and often cripple growth.
+3. Ponzi-like tendencies:
+
+Social token platforms potential
+1. Community building
+
 ### Legitimacy
 
 
