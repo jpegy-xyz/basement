@@ -1,7 +1,7 @@
 
 ### What is Friend.tech
 
-Your network is your net worth. At least according to friend.tech. And they aim to put it to the test by tokenising access to a private network of your favourite influencer.
+Your network is your net worth. At least according to friend.tech. They're aiming to put it to the test by tokenising access to a private network of your favourite influencer.
 
 friend.tech is a new social token platform that connects your Twitter profile to a wallet on Base chain. Users can buy tokens of other users on the platform that enable them to connect directly with that user in a semi-private chat.
 
@@ -9,7 +9,7 @@ To download friend.tech head to [their website](https://www.friend.tech/) on you
 
 <!-- ![Friend.tech codes](p1.png) -->
 
-### Social tokens
+### Social Tokens
 
 Social tokens aren't a new concept. They've been tried previously many a time and failed a similar amount of times. They're similar in concept to other tokens like jrny, MVHQ or Underground. Where when you own the token you get access to the thing. The thing here is access to a direct chat with an influencer or other user.
 
@@ -121,3 +121,9 @@ So clearly some major issues, but nothing worthwhile is ever without them. Howev
 Always exercise caution with these things, and do your own research. This article isn't advise or anything like that.
 
 Take care.
+
+### A New Competitor
+
+Very recently a brand new competitor to friend.tech has launched, only this time utilising Bitcoin instead of the Base network. As it was recently launched it remains untested however, the developers are very active with the community and development is proceeding at a rapid rate. Is there a tangible benefit to using this instead of friend.tech? Not at the moment unless you want to be immersed more closely with the Bitcoin ecosystem. But I mention it now, because of it's potential to become a breakthrough product much the same way Bitcoin ordinals have. 
+
+This is an even more risky venture than what's been discussed previously and even more caution should be used as a result. Here's a link to a Twitter thread going over the launch of [Alpha](https://twitter.com/NewBitcoinCity/status/1703056333250113666)
